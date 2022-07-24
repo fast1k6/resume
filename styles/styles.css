@@ -1,0 +1,111 @@
+    
+    body{
+        font-family: "Montserrat" , sans-serif;
+    }
+
+    .main{
+        display: flex;
+        flex-direction: row-reverse;
+        background-color: #F5F7FA;
+        width: 1200px;
+        margin: 0 auto;
+    } 
+       .main-content{
+        background-color: #fff;
+    } 
+    .about{
+        margin: 105px 346px 0 88px;
+    }
+    .projects{
+        margin: 33.68px 193px 0 88px;
+    }
+        .projects a{
+        color: #595959;
+    }
+    .projects span{
+        color: #595959;
+    }
+    .projects ol{
+        padding: 0;
+        margin-left: 17px;
+    }
+    .work{
+        margin: 9px 221px 0 88px;
+    }
+    .work p{
+        color: #A8A8A8;
+    }
+    .work ul{
+        padding: 0;
+        margin-left: 17px;
+    }
+    .color-theare{
+        color: #000;
+    }
+        .work li{
+        color: #595959;
+        padding-right: 100px;
+    } 
+    .colortext{
+        color: #FB6D3A;
+    }
+    .education{
+        margin: 26px 418px 0 88px;
+    }
+   .education h4{
+        color: #FB6D3A;
+    }
+    img{
+        width: 331px;
+        height: 389px;
+        padding: 18px 22px 0 17px;
+    }
+    .sidebar{
+        background-color: #1E2939;
+    }
+    .contacts{
+        margin: 38px 140px 0 40px;
+    }
+    .contacts h3{
+        color: #fff;
+    }
+    .contacts p{
+        color: #fff;
+    }
+    .contacts a{
+        color: #fff;
+    }
+    .teck-skills{
+        margin: 47px 209px 0 40px;
+    }
+    .teck-skills ul{
+        padding: 0;
+        margin-left: 17px;
+    }
+    .teck-skills h3{
+        color: #fff;
+    }
+    .soft-skills{
+        margin: 44px 182px 0 40px;
+    }
+    .soft-skills h3{
+        color: #fff;
+    }
+    .soft-skills ul{
+        padding: 0;
+        margin-left: 17px;
+    }
+    .sidebar  li{
+        color: #FB6D3A;
+    }
+    .sidebar span{
+        color: #fff;
+    }
+    a{
+        text-decoration: none;
+    }
+
+   
+   
+
+
