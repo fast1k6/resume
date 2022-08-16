@@ -8,6 +8,7 @@
         flex-direction: row-reverse;
         background-color: #F5F7FA;
         width: 1500px;
+        height: auto;
         margin: 0 auto;
     } 
        .main-content{
